@@ -24,7 +24,15 @@ const obj = await app.createSessionObject(objProperties);
 const objLayout = await obj.getLayout();
 ```
 
-## Example response
+## Response structure (overall)
+
+![[Pasted image 20230725075230.png]]
+
+## Response structure (single bookmark)
+
+![[Pasted image 20230725075404.png]]
+
+## Example response (full)
 
 ```json
 {
