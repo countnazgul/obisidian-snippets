@@ -1,13 +1,16 @@
-site_name: obsidian-mkdocs template
+site_name: Snippets
+
+repo_url: https://github.com/countnazgul/obsidian-snippets
+repo_name: Obsidian Snippets Repo
 
 theme:
     name: 'material'
     palette:
 
     # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
+    - media: "(prefers-color-scheme: slate)"
+      scheme: slate
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -16,7 +19,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: indigo
       accent: blue
       toggle:
         icon: material/toggle-switch
@@ -39,6 +42,16 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      use_pygments: true
+      linenums: true  
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji    
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
