@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qlik/Engine/List bookmarks.md",
+                "file": "JavaScript-TypeScript/TypeScript specific/Singleton class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qlik/Engine/List bookmarks.md",
+                "file": "JavaScript-TypeScript/TypeScript specific/Singleton class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qlik/Engine/List bookmarks.md",
+                "file": "JavaScript-TypeScript/TypeScript specific/Singleton class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qlik/Engine/List bookmarks.md"
+                "file": "JavaScript-TypeScript/TypeScript specific/Singleton class.md"
               }
             }
           }
@@ -148,10 +148,17 @@
   },
   "active": "ab80cf058501eaa6",
   "lastOpenFiles": [
+    "JavaScript-TypeScript/TypeScript specific/One type or another.md",
+    "JavaScript-TypeScript/TypeScript specific/Singleton class.md",
+    "Qlik/Engine/List bookmarks.md",
+    "Pasted image 20230726060123.png",
+    "Pasted image 20230726060205.png",
+    "Pasted image 20230726060022.png",
+    "JavaScript-TypeScript/TypeScript specific",
+    "JavaScript-TypeScript",
     "Pasted image 20230725075404.png",
     "Pasted image 20230725075230.png",
     "index.md",
-    "Qlik/Engine/List bookmarks.md",
     "Features/Text Formatting.md",
     "Features/Mermaid Diagrams.md",
     "Features/LaTeX Math Support.md",
