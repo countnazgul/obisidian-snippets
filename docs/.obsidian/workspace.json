@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ca48cf1ac10fc86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascripts/Dynamic nested value in object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript-TypeScript/TypeScript specific/Type from array values.md",
+                "file": "javascripts/Dynamic nested value in object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript-TypeScript/TypeScript specific/Type from array values.md",
+                "file": "javascripts/Dynamic nested value in object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript-TypeScript/TypeScript specific/Type from array values.md"
+                "file": "javascripts/Dynamic nested value in object.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "963971af0c2b68a1",
+  "active": "2ca48cf1ac10fc86",
   "lastOpenFiles": [
+    "JavaScript-TypeScript/TypeScript specific/One type or another.md",
+    "javascripts/Dynamic nested value in object.md",
     "Pasted image 20230816045349.png",
     "JavaScript-TypeScript/TypeScript specific/Singleton class.md",
     "JavaScript-TypeScript/TypeScript specific/Type from array values.md",
-    "JavaScript-TypeScript/TypeScript specific/One type or another.md",
     "JavaScript-TypeScript/TypeScript specific/Optional (utility type).md",
     "Pasted image 20230801211905.png",
     "Qlik/Engine/Sheet list.md",
