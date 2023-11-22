@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Embed resources.md",
+                "file": "Go/HTTPS server.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Embed resources.md",
+                "file": "Go/HTTPS server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Embed resources.md",
+                "file": "Go/HTTPS server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Embed resources.md"
+                "file": "Go/HTTPS server.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "963971af0c2b68a1",
   "lastOpenFiles": [
-    "JavaScript-TypeScript/TypeScript specific/At least one (utility type).md",
     "Go/Embed resources.md",
+    "Go/HTTPS server.md",
+    "JavaScript-TypeScript/TypeScript specific/At least one (utility type).md",
     "index.md",
     "Go/Generate self-signed pem certificates.md",
     "JavaScript-TypeScript/TypeScript specific/Type from array values.md",
