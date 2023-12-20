@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dc33da2e899f8f9a",
+        "id": "92160a8b76a4653b",
         "type": "tabs",
         "children": [
           {
-            "id": "963971af0c2b68a1",
+            "id": "b0407b27adbcf30f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/HTTP Query Parameters.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/HTTP Query Parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/HTTP Query Parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Go/HTTP Query Parameters.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +148,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "963971af0c2b68a1",
+  "active": "b0407b27adbcf30f",
   "lastOpenFiles": [
-    "Go/HTTP Headers.md",
+    "JavaScript-TypeScript/TypeScript specific/Optional (utility type).md",
+    "JavaScript-TypeScript/TypeScript specific/Required (utility type).md",
+    "JavaScript-TypeScript/TypeScript specific/KeepRequired (utility type).md",
+    "Pasted image 20231220212123.png",
+    "Pasted image 20231220211843.png",
+    "Pasted image 20231220211827.png",
     "Go/HTTP Query Parameters.md",
+    "Go/HTTP Headers.md",
     "Go/HTTPS server.md",
     "Go/Embed resources.md",
     "JavaScript-TypeScript/TypeScript specific/At least one (utility type).md",
     "index.md",
     "Go/Generate self-signed pem certificates.md",
     "JavaScript-TypeScript/TypeScript specific/Type from array values.md",
-    "JavaScript-TypeScript/TypeScript specific/Optional (utility type).md",
     "Go",
     "Pasted image 20231026064308.png",
     "Pasted image 20231026064217.png",
@@ -180,9 +177,6 @@
     "Qlik/Engine/List bookmarks.md",
     "Pasted image 20230801102201.png",
     "Pasted image 20230801102100.png",
-    "Pasted image 20230801101903.png",
-    "Pasted image 20230726060123.png",
-    "Pasted image 20230726060205.png",
     "JavaScript-TypeScript/TypeScript specific",
     "JavaScript-TypeScript",
     "Features/Text Formatting.md",
